@@ -1,2 +1,2 @@
-cat 0-hello_world
+echo -e "Hello, World\n"
 
